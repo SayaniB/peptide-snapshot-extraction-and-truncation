@@ -14,7 +14,7 @@ import math
 import os
 
 ####Input snapshot number
-snapshot = 1
+snapshot = 1 
 
 ####Input Ln ion
 Ln = "La"
